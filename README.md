@@ -12,5 +12,4 @@ https://quantum-computing.ibm.com/ Create an account for yourself and put the ap
 It will be fine if you run the file in an Editor.
 # Thanks
 Sentdex
-# Owner:
-Peyxw
+
